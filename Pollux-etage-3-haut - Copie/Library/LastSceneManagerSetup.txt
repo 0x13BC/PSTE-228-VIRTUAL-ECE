@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/paul/Documents/ING2.2/PSTE/Code/TEST/New Unity Project/Assets/SALLE_TEST.unity
+  isLoaded: 1
+  isActive: 1
