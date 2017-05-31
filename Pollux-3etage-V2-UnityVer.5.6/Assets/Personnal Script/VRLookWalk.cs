@@ -12,7 +12,7 @@ public class VRLookWalk : MonoBehaviour {
 	
 	public bool moveForward;
 	
-	private CharacterController cc;
+	public CharacterController cc;
 
 	// Use this for initialization
 	void Start () {

@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2015
+# Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pollux-3etage-V2-UnityVer.5.6", "Pollux-3etage-V2-UnityVer.5.6.csproj", "{EF1D7BD9-DE1C-F782-AF19-DE030481E2F9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pollux-3etage-V2-UnityVer.5.6.Editor", "Pollux-3etage-V2-UnityVer.5.6.Editor.csproj", "{58AF34BA-304F-D439-E224-E5635F9BA3E2}"
